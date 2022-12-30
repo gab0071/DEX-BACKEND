@@ -42,7 +42,7 @@ You can see the smart contract on Etherscan: <a href="https://goerli.etherscan.i
 
 ```bash
 # Clone this project
-$ git clone https://github.com/catherinee24/DEX-BACKEND
+$ git clone https://github.com/gab0071/DEX-BACKEND
 
 # Access
 $ cd DEX-BACKEND
